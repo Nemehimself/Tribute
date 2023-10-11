@@ -1,0 +1,80 @@
+/* This is the paragraph styling */
+p
+{
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    text-align:center
+}
+
+/* This is the article styling */
+article
+{
+    background-color: rgb(183, 187, 187);
+    text-align: center;
+    border-style: double;
+    border-color: #000000
+    border-color: white;
+    margin-top: 300px;
+}
+
+/* This is the body styling */
+body
+{
+    background-color: rgb(153, 153, 150);
+}
+
+h1
+{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.img1
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img2
+{
+    margin-left: 300px;
+    margin-right: auto;
+    float: left;
+    width: 200px;
+    height: 320px;
+}
+
+.img3
+{
+    margin-left: 100px;
+    margin: right 100px;
+    float: left;
+    width: 200px;
+    height: 320px;
+}
+
+.img4
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    float: left;
+    width: 200px;
+    height: 320px;
+}
+
+.img5
+{
+    margin-left: auto;
+    margin-right: 250px;
+    float: right;
+    width: 200px;
+    height: 320px;
+}
+
+q{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 200%;
+}
